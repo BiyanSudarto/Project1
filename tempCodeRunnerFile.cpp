@@ -12,7 +12,7 @@ float dicePositionX = 0.0f;
 float dicePositionY = 0.0f;
 float diceVelocityX;
 float diceVelocityY;
-float diceBounds = 0.3f;
+float diceBounds = 1.3f;
 float autoRotationSpeed = 0.05f;  // Kecepatan rotasi otomatis
 
 void drawDice();
